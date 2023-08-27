@@ -1,7 +1,7 @@
 # Example Repo Title
 Hello world!!!! 
 
-Second change!
+Second change! from ariel
 
 # New version of this course (2020)
 ### gitforeverybody.com
